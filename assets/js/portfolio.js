@@ -1,0 +1,1 @@
+const parallaxPortfolioHero = new Parallax("#portfolio-hero", 0.7);
